@@ -1,0 +1,13 @@
+.cart-text {
+  font-size: 40px;
+  margin: 0 0 8px;
+  font-family: Inter;
+  text-align: center;
+}
+.total-price {
+  font-size: 22px;
+  border-top: 2px solid;
+  width: 140px;
+  text-align: center;
+  margin-left: 61%;
+}

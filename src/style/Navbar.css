@@ -1,0 +1,25 @@
+.heading-parent-box {
+  display: flex;
+  padding: 8px 48px;
+  justify-content: space-between;
+  background-color: #2a2a72;
+}
+.phone-logo-img {
+  margin: 0 16px 0 0;
+  padding: 5px 0;
+  align-items: center;
+}
+.parentbox-left {
+  display: inherit;
+  align-items: center;
+}
+.parentbox-right {
+  display: inherit;
+  align-items: center;
+}
+.heading-products {
+  font-size: 20px;
+  padding: 8px 40px;
+  color: #f3f3f3;
+  font-family: Inter;
+}

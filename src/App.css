@@ -1,0 +1,11 @@
+.mega-conatiner {
+  background-color: #f3f3f3;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-around;
+}
+.cart-button {
+  padding-top: 30px;
+}

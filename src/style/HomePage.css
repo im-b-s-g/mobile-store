@@ -1,0 +1,23 @@
+.product-parent {
+  display: flex;
+  flex-direction: column;
+  padding: 48px 0;
+}
+.product-text {
+  font-size: 40px;
+  margin: 0 0 8px;
+  font-family: Inter;
+  text-align: center;
+}
+.card-arrangement {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+.product-card-info {
+  display: flex;
+  font-family: Inter;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,20 @@
+.cartArray-mega-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.cartArray-index {
+  font-size: 20px;
+  width: 20px;
+}
+.cartArray-productName {
+  font-size: 20px;
+  width: 200px;
+}
+.cartArray-productPrice {
+  font-size: 20px;
+  width: 20px;
+}
+.cartArray-totalPrice {
+  font-size: 20px;
+}
